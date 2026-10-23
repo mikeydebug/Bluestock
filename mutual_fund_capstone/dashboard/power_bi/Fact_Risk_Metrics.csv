@@ -1,0 +1,7 @@
+scheme_code,reference_name,scheme_name,category,daily_var_95_quantile,daily_var_95_loss_pct,daily_cvar_95_quantile,daily_cvar_95_loss_pct
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Growth,Small Cap Fund,-1.617,1.617,-2.231,2.231
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt - Direct IDCW,Debt Scheme,-0.105,0.105,-1.114,1.114
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Growth,ELSS Tax Saver,-1.446,1.446,-2.027,2.027
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Growth,Large Cap Fund,-1.357,1.357,-2.036,2.036
+119092,Axis Bluechip,HDFC Money Market Fund - Direct Growth,Money Market Fund,-0.006,0.006,-0.027,0.027
+120841,Kotak Bluechip,Quant Mid Cap Fund - Direct Growth,Mid Cap Fund,-1.77,1.77,-2.596,2.596

@@ -1,0 +1,7 @@
+configured_code,task_reference_name,resolved_scheme_name,fund_house,category,record_count,latest_date,earliest_date,raw_file
+125497,HDFC Top 100 Direct,SBI SMALL CAP FUND - Direct Plan - Growth,SBI Mutual Fund,Equity Scheme - Small Cap Fund,3190,22-10-2026,18-11-2013,mutual_fund_capstone/data/raw/nav_125497.json
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund - Direct Plan - IDCW-Re-investment,Aditya Birla Sun Life Mutual Fund,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,3334,22-10-2026,02-01-2013,mutual_fund_capstone/data/raw/nav_119551.json
+120503,ICICI Bluechip,Axis ELSS- Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,Equity Schemes - ELSS- Tax Saver Fund,3406,22-10-2026,02-01-2013,mutual_fund_capstone/data/raw/nav_120503.json
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan - Growth Option,Nippon India Mutual Fund,Equity Scheme - Large Cap Fund,3397,22-10-2026,02-01-2013,mutual_fund_capstone/data/raw/nav_118632.json
+119092,Axis Bluechip,HDFC Money Market Fund - Direct Plan - Growth Option,HDFC Mutual Fund,Debt Scheme - Money Market Fund,3663,22-10-2026,31-12-2012,mutual_fund_capstone/data/raw/nav_119092.json
+120841,Kotak Bluechip,Quant Mid Cap Fund - Direct Plan - Growth Option,quant Mutual Fund,Equity Scheme - Mid Cap Fund,3400,22-10-2026,07-01-2013,mutual_fund_capstone/data/raw/nav_120841.json
