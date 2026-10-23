@@ -1,8 +1,8 @@
-# Bluestock FinTech Internship — Master Project Repository
+# Bluestock FinTech  — Master Project Repository
 
 **Intern:** Mayank Soni (B.Tech Computer Science)  
 **Organization:** Bluestock Fintech  
-**Role:** Data Analyst Intern  
+**Role:** Data Analyst   
 **Project:** Mutual Fund Analytics Capstone & FinTech Engineering  
 **Academic Year:** 2026  
 
